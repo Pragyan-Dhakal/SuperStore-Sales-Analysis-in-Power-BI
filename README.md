@@ -97,7 +97,7 @@ This repository contains:
 | …          | …            | …          | …          |
 | 2021-01-15 | 3,699        |   374      | 7,025      |
 
-> *Figure B-1:* Point forecasts with 95 % confidence intervals
+> *Figure B-1:* Point forecasts with 95 % confidence intervals, more in report on sales analysis.
 
 ---
 
